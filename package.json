@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.23.6",
+    "@babel/helper-builder-binary-assignment-operator-visitor": "^7.22.15",
+    "babel-loader": "^9.1.3"
+  }
+}
